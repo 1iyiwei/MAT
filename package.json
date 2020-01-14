@@ -10,10 +10,10 @@
     "private": false,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FlorisSteenkamp/mat.git"
+        "url": "git+https://github.com/1iyiwei/mat.git"
     },
     "bugs": {
-        "url": "https://github.com/FlorisSteenkamp/mat/issues"
+        "url": "https://github.com/1iyiwei/mat/issues"
     },
     "keywords": [
         "Medial",
