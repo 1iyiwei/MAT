@@ -334,13 +334,13 @@ MAT and then drawing it on top of the MAT with a different css class (blue).
 Whether your target is Node or the browser the library can be installed via [npm](https://www.npmjs.com/).
 (For the browser you can also download the [minified.js](https://raw.githubusercontent.com/FlorisSteenkamp/MAT/master/browser/index.min.js) file - see below)
 
-So whatever your target, at the the command line under the source folder:
+So whatever your target, at the the command line under the local source folder:
 
 ```cli
 npm install
 ```
 
-And then in another folder:
+And then in another folder (e.g. [examples](https://github.com/FlorisSteenkamp/mat-examples)) that you want to use the library:
 
 ```cli
 npm install flo-mat
